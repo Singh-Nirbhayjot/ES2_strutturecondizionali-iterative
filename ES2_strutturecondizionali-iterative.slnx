@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Es2/Es2.csproj" />
+  <Project Path="ES2_strutturecondizionali-iterative/Es1.csproj" />
+  <Project Path="Es3/Es3.csproj" />
+</Solution>
